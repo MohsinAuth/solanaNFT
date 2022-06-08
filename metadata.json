@@ -1,0 +1,43 @@
+{
+  "name": "Number #0001",
+  "symbol": "NB",
+  "description": "Collection of 9 images on the blockchain. This is 1/10.",
+  "seller_fee_basis_points": 500,
+  "image": "https://gateway.pinata.cloud/ipfs/Qme4uE4DERoNtWTeQG5t3xk2gLGKVYNQ6uJgsqDHp9vcVQ",
+  "attributes": [
+    {
+      "trait_type": "Layer-1",
+      "value": "0"
+    },
+    {
+      "trait_type": "Layer-2",
+      "value": "0"
+    },
+    {
+      "trait_type": "Layer-3",
+      "value": "0"
+    },
+    {
+      "trait_type": "Layer-4",
+      "value": "1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "3zGoQGiBQ3njWWRE9XnhBhqtBtDgDyhLLC7TEiVqw7R8",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/GpHdKOMArHW6dJKnK2ASW6NELj1vaeZ0PXo8YBdXjEI?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "numbers",
+    "family": "numbers"
+  }
+}
